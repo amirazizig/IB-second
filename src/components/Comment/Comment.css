@@ -1,0 +1,41 @@
+.Comment{
+    text-align: right;
+    padding: 10px;
+    position: relative;
+}
+form{
+    margin-bottom: 4%;
+}
+
+form button{
+    width: 80%;
+}
+.form-group{
+    width: 80%;
+}
+
+.comment-box{
+    margin: 0 auto;
+    border: 1px solid rgba(121, 118, 118, 0.459);
+    padding: 10px;
+    border-radius: 6px;
+}
+.comment-box textarea{
+    resize: none;
+}
+.comment-box h6{
+    text-align: right;
+    
+}
+.more{
+    margin-top: 3%;
+    float: left;
+    position: absolute;
+    left: 5%;
+    text-decoration: none;
+    color: rgb(65, 62, 62);
+}
+.more:hover{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}

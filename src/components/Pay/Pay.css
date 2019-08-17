@@ -1,0 +1,43 @@
+.Pay{
+    text-align: center;
+    margin: 15px auto;
+}
+.card-header{
+    background-color: #28353D;
+    color: white;
+    
+  }
+  .card-footer{
+    border-top: none;
+  }
+  input{
+    text-align: center;
+    border: .8px solid #2980B9;
+  }
+  input:hover{
+    box-shadow: none;
+    border: .8px solid #2980B9;
+    outline: none;
+  }
+  
+  .card button{
+    margin-top: 15px;
+    
+  }
+  .card button.btngreen{
+    color: rgb(24, 145, 24)
+  }
+  
+  .card button.btnred:hover{
+    color: rgb(238, 0, 0)
+  }
+  .card button.btngreen:hover{
+    color: rgb(26, 204, 26);
+  }
+  
+  .card button.btnred{
+    float: right;
+  }
+  .card button.btngreen{
+    float: left;
+  }

@@ -1,0 +1,38 @@
+.box{
+
+    margin: 0 auto;
+    height: 550px;
+    border: 1px solid rgba(219, 218, 218, 0.521);
+    width: 37%;
+    box-shadow: -2px 12px 16px -10px rgba(110,104,110,0.51);
+    box-sizing: border-box;
+  }
+  .box .header{
+    width: 100%;
+    height: 32%; 
+    position: relative;
+  
+  }
+  
+  .nav{
+    text-align: center;
+    border-bottom: 1px solid rgba(206, 204, 204, 0.589);
+  }
+  
+  .nav-item a{
+    color:rgb(184, 174, 174); 
+  }
+  .nav-item a:hover{
+    color:black;
+  }
+  .nav-item .active{
+    color:black;
+  }
+  .content{
+    padding-top: 9px;
+  }
+  .content h4{
+    text-align: center;
+  }
+  
+  

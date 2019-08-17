@@ -1,0 +1,21 @@
+@font-face{
+  font-family: Byekan;
+  src: url('./components/fonts/Yekan.ttf');
+}
+* {
+  box-sizing: border-box;
+}
+html{
+  direction: rtl;
+ 
+}
+body{
+  
+  font-family: Byekan;
+  padding: 20px;
+  box-sizing: border-box;
+
+}
+
+
+
